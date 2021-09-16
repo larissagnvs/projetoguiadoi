@@ -24,3 +24,11 @@ body {
     border: 1px solid blue;
     padding: 5px;
 }
+
+.cor-vermelha {
+    color: red
+}
+
+.cor-verde {
+    color: green
+}
